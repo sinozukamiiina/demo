@@ -1,4 +1,5 @@
-title: Your Site Title
+layout: default
+title: Home Page
 # email: your-email@example.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   This is a description of your site.
