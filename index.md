@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home Page
+---
+
 # アカウント
 
 |サービス|アカウント|備考|
